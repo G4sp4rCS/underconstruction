@@ -1,0 +1,24 @@
+{
+  "name": "voxed2construction",
+  "version": "1.0.0",
+  "description": "Sitio en construccion voxed2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igruntplay/underconstruction.git"
+  },
+  "author": "Grunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igruntplay/underconstruction/issues"
+  },
+  "homepage": "https://github.com/igruntplay/underconstruction#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
